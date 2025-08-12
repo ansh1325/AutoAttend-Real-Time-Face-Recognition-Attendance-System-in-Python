@@ -9,7 +9,7 @@ from datetime import datetime
 def load_known_faces():
     
     ansh_image = face_recognition.load_image_file("faces/ansh.jpg")
-    arushi_image = face_recognition.load_image_file("faces/arushi.jpeg")
+    arushi_image = face_recognition.load_image_file("faces/arushi.jpg")
     donald_image = face_recognition.load_image_file("faces/donald.jpg")
     elon_image = face_recognition.load_image_file("faces/elon.jpg")
 
