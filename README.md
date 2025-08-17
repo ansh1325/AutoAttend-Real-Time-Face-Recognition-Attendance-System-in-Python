@@ -1,5 +1,6 @@
 # AutoAttend: Real-Time Face Recognition Attendance System in Python
 
+VIDEO EXPLANATION- <a href="https://www.linkedin.com/posts/anshprogrammer_excited-to-share-my-latest-python-project-activity-7362456539342786560-3iYD">Video HERE ON Linkedin</a>
 This project is a **real-time face recognition-based attendance system** built with Python, OpenCV, and the `face_recognition` library.  
 It detects faces through your webcam, matches them against stored images, and logs attendance into a CSV file with timestamps.
 
